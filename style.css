@@ -1,0 +1,52 @@
+#title {
+  text-align: center;
+  color: #ff3535;
+  border: 3px solid black;
+  width: fit-content;
+  height: 50px;
+  padding-top: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 0 auto;
+}
+
+* {
+  font-family: sans-serif;
+}
+
+.names {
+  color: #ff3535;
+}
+
+.capitan-america {
+  margin-top: 25px;
+  width: fit-content;
+  text-align: center;
+}
+
+.thor {
+  margin-top: 25px;
+  width: fit-content;
+  text-align: center;
+}
+
+.iron-man {
+  margin-top: 25px;
+  width: fit-content;
+  text-align: center;
+}
+
+.hulk {
+  margin-top: 25px;
+  width: fit-content;
+  text-align: center;
+}
+
+.enlace {
+  text-decoration: none;
+  color: black
+}
+
+div {
+  display: inline-block;
+}
